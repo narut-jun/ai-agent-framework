@@ -1,4 +1,4 @@
-# 📦 VERSION.md — Version Tracking
+﻿# 📦 VERSION.md — Version Tracking
 
 > **ไฟล์เดียว 2 เวอร์ชัน**: Framework (โครงสร้าง) + Knowledge (เนื้อหา)
 
@@ -9,7 +9,7 @@
 | รายการ | ค่า |
 |--------|-----|
 | **Framework Version** | v1.0.0 |
-| **Knowledge Version** | v1.0.0 (Narut — trained) |
+| **Knowledge Version** | v0.0.0 (empty — ยังไม่ได้เทรน) |
 | **อัพเดทล่าสุด** | 2026-05-01 |
 
 > **หมายเหตุ**: Framework v0.x.x = development, v1.0.0 = first stable release  
@@ -29,7 +29,7 @@
 
 | Version | วันที่ | สิ่งที่เพิ่ม | Owner |
 |---------|--------|------------|-------|
-| **v1.0.0** | 2026-05-01 | global-rules 3 ไฟล์ + patterns 1 ไฟล์ + skills 3 ไฟล์ (Cloudflare, Health, Room Rental) | Narut |
+| *(empty — fill this after training your knowledge)* | | | |
 
 ---
 
@@ -37,8 +37,7 @@
 
 | โปรเจค | Framework | Knowledge | อัพเดทเมื่อ | หมายเหตุ |
 |--------|-----------|-----------|-----------|---------|
-| WebappHealth | v1.0.0 | v1.0.0 | 2026-05-01 | Planning Phase |
-| room-rental | — | — | — | ใช้ระบบเอกสารตัวเอง (pre-framework) |
+| *(add your projects here)* | | | | |
 
 ---
 
