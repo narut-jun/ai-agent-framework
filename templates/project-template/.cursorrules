@@ -1,0 +1,18 @@
+# [PROJECT_NAME] — AI IDE Rules (Cursor / Antigravity)
+# ไฟล์นี้ Cursor และ Antigravity อ่านอัตโนมัติ
+
+## 🚨 อ่านไฟล์ AI_CONTEXT.md ก่อนเสมอ
+ไฟล์ `AI_CONTEXT.md` คือ Single Source of Truth ของโปรเจคนี้
+
+## Quick Context
+- โปรเจค: [PROJECT_NAME] — [PROJECT_DESCRIPTION]
+- เจ้าของ: [OWNER_NAME] (สื่อสารเป็นภาษาไทย)
+- กฎสำคัญ: FREE TIER ONLY, comment โค้ดเป็นภาษาไทย
+- ทุกข้อมูลที่ได้จากเจ้าของ → บันทึกลงเอกสาร ห้ามลืม
+
+## เอกสารที่ต้องอ่าน
+1. `HANDOFF.md` — สถานะปัจจุบัน (อ่านก่อนเลย!)
+2. `AI_CONTEXT.md` — ภาพรวมทั้งหมด
+3. `docs/05_AI_GUIDELINES.md` — กฎและข้อปฏิบัติ
+4. `skills/owner_profile.md` — ตัวตนเจ้าของ
+5. `docs/04_ROADMAP_AND_TASKS.md` — ความคืบหน้า

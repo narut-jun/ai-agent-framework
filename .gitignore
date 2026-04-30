@@ -1,0 +1,23 @@
+# Ai-Agent-Framework .gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE internal state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+*.temp
+
+# Secrets (API keys) — ห้ามอัพขึ้น Git!
+scripts/config.json
+
+# === ต้อง TRACK ทั้งหมด (ห้ามใส่ .gitignore!) ===
+# knowledge/, brain-inbox/, templates/, guides/
+# AI_CONTEXT.md, COMMANDS.md, VERSION.md, README.md

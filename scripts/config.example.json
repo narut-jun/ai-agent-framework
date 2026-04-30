@@ -1,0 +1,39 @@
+{
+  "_comment": "ไฟล์ตัวอย่าง — copy เป็น config.json แล้วใส่ค่าจริง",
+  "_doc": "ดูวิธีใช้ที่ scripts/README.md",
+
+  "owner": {
+    "name": "ชื่อเจ้าของ",
+    "email": "email@example.com",
+    "language": "th"
+  },
+
+  "paths": {
+    "default_project_dir": "C:\\Users\\YourName\\Projects",
+    "framework_dir": "auto"
+  },
+
+  "ai": {
+    "provider": "none",
+    "_provider_options": "none | gemini | claude | openai | ollama",
+
+    "api_key": "",
+    "_api_key_note": "ใส่ API key ที่นี่ (ห้ามอัพขึ้น git!)",
+
+    "api_url": "",
+    "_api_url_options": {
+      "gemini": "https://generativelanguage.googleapis.com/v1beta",
+      "claude": "https://api.anthropic.com/v1",
+      "openai": "https://api.openai.com/v1",
+      "ollama": "http://localhost:11434/api"
+    },
+
+    "model": "",
+    "_model_options": {
+      "gemini": "gemini-2.0-flash",
+      "claude": "claude-sonnet-4-20250514",
+      "openai": "gpt-4o-mini",
+      "ollama": "llama3"
+    }
+  }
+}

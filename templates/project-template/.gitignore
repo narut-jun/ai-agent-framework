@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables — ห้าม commit เด็ดขาด!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.dev.vars
+
+# Secrets / API keys
+*.key
+*.pem
+config.json
+secrets.json
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE internal state (config files ที่ AI อ่านต้อง track!)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cloudflare
+.wrangler/
+
+# Temporary
+*.tmp
+*.temp
+
+# === AI Config Files — ต้อง TRACK (ห้ามใส่ใน .gitignore!) ===
+# AI_CONTEXT.md, HANDOFF.md, AGENTS.md, CLAUDE.md, GEMINI.md
+# .cursorrules, .windsurfrules, .clinerules
+# .github/copilot-instructions.md, .amazonq/
